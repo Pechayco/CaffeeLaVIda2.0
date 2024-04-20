@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>CaffeeLaVIda2._0</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CafeLaVidaDL\CafeLaVidaDL.csproj" />
+    <ProjectReference Include="..\CafeLaVidaM\CafeLaVidaM.csproj" />
+  </ItemGroup>
+
+</Project>
